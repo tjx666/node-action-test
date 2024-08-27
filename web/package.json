@@ -1,0 +1,11 @@
+{
+    "name": "web",
+    "scripts": {
+        "test": "echo test success!"
+    },
+    "dependencies": {
+        "react": "^18.3.1",
+        "lodash": "^4.17.21"
+    },
+    "packageManager": "pnpm@9.9.0"
+}
